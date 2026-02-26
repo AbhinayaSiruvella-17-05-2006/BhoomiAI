@@ -31,7 +31,7 @@ Multilingual support (English, Hindi, Telugu)
 
 Uses locally hosted Ollama model for AI generation (development mode)
 
- Digital Twin Simulation
+🛰 Digital Twin Simulation
 
 Simulated crop decision preview
 
@@ -62,6 +62,7 @@ Simulation fallback mode if ML model is unavailable
 ---
 
 🛠️ Technology Stack
+
 🖥 Frontend
 
 React (Vite)
