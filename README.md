@@ -1,8 +1,11 @@
 🌾 BhoomiAI
+
 AI-Powered Smart Agriculture Platform
 
 BhoomiAI is an intelligent agriculture decision-support platform built using Artificial Intelligence, Machine Learning, and multilingual conversational assistance. It empowers farmers and users to make data-driven crop decisions through AI advisory, disease detection, and digital twin simulation technology.
+
 ---
+
 🚀 Live Deployment
 🌐 Frontend (User Interface)
 
@@ -12,7 +15,10 @@ BhoomiAI is an intelligent agriculture decision-support platform built using Art
 
 👉 https://bhoomi-backend-7hlj.onrender.com
 
+---
+
 🎯 Core Features
+
 🤖 AI Agriculture Expert (Powered by Ollama)
 
 Intelligent farming advisory system
@@ -53,6 +59,8 @@ Smart recommendation rotation system
 
 Simulation fallback mode if ML model is unavailable
 
+---
+
 🛠️ Technology Stack
 🖥 Frontend
 
@@ -89,6 +97,8 @@ Scikit-Learn
 Render (Static Site – Frontend)
 
 Render (Web Service – Backend)
+
+---
 
 🔥 Ollama Integration
 🔹 Local Development
