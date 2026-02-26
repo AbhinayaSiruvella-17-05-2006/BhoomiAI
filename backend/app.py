@@ -18,7 +18,9 @@ import os
 
 app = Flask(__name__)
 CORS(app)
-
+@app.route("/")
+def home():
+    return "BhoomiAI Backend is Running Successfully 🚀"
 # --- ML Model Setup ---
 IMG_SIZE = 224
 model = None
@@ -220,3 +222,4 @@ def detect():
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
+
