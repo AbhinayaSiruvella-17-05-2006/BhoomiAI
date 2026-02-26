@@ -2,7 +2,7 @@
 AI-Powered Smart Agriculture Platform
 
 BhoomiAI is an intelligent agriculture decision-support platform built using Artificial Intelligence, Machine Learning, and multilingual conversational assistance. It empowers farmers and users to make data-driven crop decisions through AI advisory, disease detection, and digital twin simulation technology.
-
+---
 🚀 Live Deployment
 🌐 Frontend (User Interface)
 
