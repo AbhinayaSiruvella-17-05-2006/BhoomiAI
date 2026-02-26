@@ -7,4 +7,5 @@ joblib
 
 gunicorn
 deep-translator
-ollama
+ollama-python
+
