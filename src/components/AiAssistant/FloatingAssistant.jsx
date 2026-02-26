@@ -40,7 +40,7 @@ const FloatingAssistant = () => {
             setTranscript(text);
 
             try {
-                const response = await fetch('http://localhost:5000/get-advice', {
+                const response = await fetch('https://bhoomi-backend-7hlj.onrender.com/get-advice', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ message: text, lang: lang }),
@@ -156,3 +156,4 @@ const FloatingAssistant = () => {
 };
 
 export default FloatingAssistant;
+
