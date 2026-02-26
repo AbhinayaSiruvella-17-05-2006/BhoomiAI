@@ -49,7 +49,7 @@ const CropHealth = () => {
 
         try {
             // Using updated port 5000 as per updated app.py
-            const response = await fetch("http://127.0.0.1:5000/detect", {
+            const response = await fetch("https://bhoomi-backend-7hlj.onrender.com/detect", {
                 method: "POST",
                 body: formData
             });
@@ -249,3 +249,4 @@ const CropHealth = () => {
 };
 
 export default CropHealth;
+
