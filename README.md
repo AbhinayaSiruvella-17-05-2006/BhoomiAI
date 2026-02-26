@@ -102,6 +102,7 @@ Render (Web Service – Backend)
 ---
 
 🔥 Ollama Integration
+
 🔹 Local Development
 
 Ollama is used for AI-based text generation
@@ -117,6 +118,7 @@ Ollama is conditionally disabled
 Application remains stable without runtime crashes
 
 Clean fallback messages are returned when AI is unavailable
+
 
 This hybrid approach ensures:
 
